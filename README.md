@@ -1,35 +1,47 @@
-# Social Media Viral Content & Engagement Analysis
+# 📊 Social Media Engagement Analysis
 
 ## 📌 Project Overview
 
-This project analyzes viral social media content across multiple platforms to identify engagement patterns and content performance. The goal is to support data-driven decision-making for digital marketing teams by exploring engagement metrics such as likes, shares, comments, and views.
+This project analyzes social media engagement data to help digital marketing teams understand how different content types and platforms perform in terms of user interaction.
+
+The goal is to transform raw engagement data into actionable insights that support content strategy decisions, campaign optimization, and dashboard reporting.
 
 ## 🎯 Business Context
-Digital marketing teams often rely on intuition when deciding what type of content to produce and which platforms to prioritize. This project uses exploratory data analysis (EDA) to uncover insights that help optimize content strategy and platform selection.
 
-## 👥 Stakeholders
-- Digital Marketing Team of a consumer brand operating in Europe
+From the perspective of a digital marketing team, this project aims to:
+ - Identify which content types drive higher engagement rates
+ - Compare platform performance using reliable engagement metrics
+ - Provide data-driven recommendations for content strategy optimization
+
+## 👤 Primary Stakeholder
+This stakeholder is responsible for:
+ - Planning social media campaigns
+ - Allocating content resources across platforms
+ - Maximizing engagement efficiency rather than just content volume
 
 ## 📊 Dataset
-- Source: Kaggle – Social Media Viral Content and Engagement Metrics
+The dataset contains post-level engagement metrics across different platforms and content types.
+- Source: Kaggle – Social Media Engagement Report
 - Features include:
   - Platform
-  - Content Type
-  - Likes, Shares, Comments, Views
+  - Post Type
+  - Likes, Shares, Comments
   - Hashtags
   - Post Date
 
 ## 🔍 Analysis Approach
+The project follows a structured data analytics workflow:
 - Data understanding and quality checks
-- Feature engineering (total engagement metric)
+- Feature engineering
 - Exploratory data analysis (EDA)
 - Hypothesis-driven analysis
+- Business recommendations
 - Interactive dashboard design using Power BI
 
-## 🧠 Key Questions
-- Which content types generate the highest engagement?
-- Which platforms perform best in terms of engagement?
-- How can content strategies be optimized using data insights?
+## ❓ Key Business Questions
+- Which content types achieve higher engagement rates on average?
+- How does engagement performance differ across social media platforms?
+- Are engagement outcomes evenly distributed or driven by a small subset of high-performing posts?
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
