@@ -53,11 +53,9 @@ The project follows a structured data analytics workflow:
 - Further Improvements
 
 ## ❓ Key Business Questions
-- Which products and product categories contribute the most to total revenue and sales volume?
-- How is revenue distributed across customers, and who are the high-value customers driving business performance?
-- Are there identifiable temporal patterns (daily, weekly, or monthly) in sales and revenue?
-- Which time periods generate the highest sales performance and should be prioritized for promotions?
-- Is the business revenue driven by a broad customer base or concentrated among a small group of customers?
+- Do frequent customers generate more revenue than occasional buyers?
+- Do a small group of high-spending customers contribute disproportionately to the total revenue 
+- Which customer age groups contribute most to total revenue?
 
 ## 🛠️ Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
