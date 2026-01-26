@@ -54,7 +54,7 @@ The project follows a structured data analytics workflow:
 
 ## ❓ Key Business Questions
 - Do frequent customers generate more revenue than occasional buyers?
-- Do a small group of high-spending customers contribute disproportionately to the total revenue 
+- Do certain payment methods tend to be used by high-value transactions more frequently,indicating that customers prefer specific payment methods for larger purchases? 
 - Which customer age groups contribute most to total revenue?
 
 ## 🛠️ Tools & Technologies
