@@ -39,7 +39,7 @@ The insights from this analysis can help decision-makers:
  ├── Power_BI_Dashboard/
  │   └── Retail_Sales_Dashboard.pbix
  ├── Presentation
- │   └── Retail_Sales_Presentation.pdf
+ │   └── Retail_Sales_Presentation.pptx
  ├── README.md
  └── requirements.txt
 ```
