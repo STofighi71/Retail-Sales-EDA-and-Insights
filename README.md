@@ -25,7 +25,7 @@ The insights from this analysis can help decision-makers:
 - Identify top-performing products
 - Improve sales planning using data-driven insights
 
-## 📊 Dataset
+## 🧮 Dataset
 - **Source:** [Kaggle - Retail Transactional Dataset](https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset/data)
 - **Type:** Transaction-level retail data
 - **Granularity:** Individual sales transactions
@@ -34,6 +34,10 @@ The insights from this analysis can help decision-makers:
  ```text
  ├── Data/
  │   └── Retail_Transactions.csv
+ ├── Images/
+ │   ├── 1.dashboard_overview.jpg
+ │   ├── 2.dashboard_hypothesis_validation.jpg
+ │   └── 3.dashboard_insights_recommendations.jpg
  ├── Notebooks/
  │   └── Retail_Sales_EDA.ipynb
  ├── Power_BI_Dashboard/
@@ -62,6 +66,25 @@ The project follows a structured data analytics workflow:
 - Jupyter Notebook
 - Power BI
 - Git & GitHub
+
+## 📊 Power BI Dashboard
+
+The Power BI dashboard consists of three interactive pages designed to support business decision-making and hypothesis validation.
+
+### 1️⃣ Executive Overview
+![Executive Overview](Images/1.dashboard_overview.jpg)
+
+This page provides a high-level overview of key business KPIs, revenue trends over time, and customer distribution. It allows stakeholders to quickly understand overall performance and identify major patterns.
+
+### 2️⃣ Hypothesis Validation
+![Hypothesis Validation](Images/2.dashboard_hypothesis_validation.jpg)
+
+This page focuses on validating business hypotheses related to customer behavior, age groups, purchase frequency, and payment methods. Interactive filters enable users to explore how different segments impact revenue and performance metrics.
+
+### 3️⃣ Insights & Recommendations
+![Insights & Recommendations](Images/3.dashboard_insights_recommendations.jpg)
+
+This page summarizes the most important analytical findings and translates them into actionable business recommendations to support data-driven strategic decisions.
 
 ## 🚀 Project Status
 Final project includes complete EDA, insights, and Power BI dashboards providing actionable recommendations for business stakeholders
